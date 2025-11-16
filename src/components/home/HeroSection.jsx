@@ -73,7 +73,7 @@ export default function HeroSection() {
                     <div className="relative lg:block hidden">
                         <div className="relative z-10"> 
                             <img 
-                                src="src\components\home\main.jpg" 
+                                src="/main.jpg" 
                                 alt="Professora Laís"
                                 className="rounded-3xl shadow-2xl w-full object-cover"
                             />
