@@ -73,7 +73,7 @@ export default function HeroSection() {
                     <div className="relative lg:block hidden">
                         <div className="relative z-10"> 
                             <img 
-                                src="/main.jpg" 
+                                src="./pessoa.jpg" 
                                 alt="Professora Laís"
                                 className="rounded-3xl shadow-2xl w-full object-cover"
                             />
@@ -84,7 +84,7 @@ export default function HeroSection() {
                                     </div>
                                     <div>
                                         <div className="font-bold text-gray-900">Certificação Internacional</div>
-                                        <div className="text-sm text-gray-600">TEFL & Cambridge</div>
+                                        <div className="text-sm text-gray-600">TOEFL, IELTS, TOEIC, DET & TAP</div>
                                     </div>
                                 </div>
                             </div>
